@@ -4,3 +4,8 @@ body
     text-align: center;
     font-family:"Gill Sans";
 }
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px 
+}
